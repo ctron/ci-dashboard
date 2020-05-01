@@ -1,0 +1,11 @@
+# Rust
+
+target/
+
+# NodeJS
+
+node_modules/
+dist/
+
+# Local
+env.sh
